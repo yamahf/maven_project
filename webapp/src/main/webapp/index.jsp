@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New Bluewave Student Register for DevOps Learning</h1>
-    <p>Please fill in this form to createa student account.</p>
+    <p>Please fill in this form to create a student account.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
