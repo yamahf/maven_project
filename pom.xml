@@ -3,8 +3,8 @@
 
   <modelVersion>4.0.0</modelVersion> 
 
-  <groupId>com.example.maven_project</groupId>
-  <artifactId>maven_project</artifactId>
+  <groupId>com.example.maven-project</groupId>
+  <artifactId>maven-project</artifactId>
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>Maven Project</name>
@@ -32,7 +32,7 @@
     <site>
       <id>site-server</id>
       <name>Test Project Site</name>
-      <url>file:///tmp/maven_project-site</url>
+      <url>file:///tmp/maven-project-site</url>
     </site>
   </distributionManagement>
 
@@ -126,7 +126,7 @@
         </plugin>
 
         <plugin>
-          <artifactId>maven_project-info-reports-plugin</artifactId>
+          <artifactId>maven-project-info-reports-plugin</artifactId>
           <version>2.4</version>
         </plugin>
 
